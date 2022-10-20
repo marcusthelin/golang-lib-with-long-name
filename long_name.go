@@ -1,4 +1,4 @@
-package long_name
+package longname
 
 import "fmt"
 
